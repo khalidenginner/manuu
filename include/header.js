@@ -137,50 +137,8 @@ document.write(`
                                 
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Admissions</a>
-                                <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="#">How To Apply</a></li>
-                                    <li><a class="dropdown-item" href="#">Application Form</a></li>
-                                    <li class="dropdown-submenu">
-                                        <a class="dropdown-item dropdown-toggle" href="#">Our Campus</a>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="#">Campus Tour</a></li>
-                                            <li><a class="dropdown-item" href="#">Campus Life</a></li>
-                                            <li><a class="dropdown-item" href="#">Notice Board</a></li>
-                                            <li><a class="dropdown-item" href="#">Student
-                                                    Activities</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown-submenu">
-                                        <a class="dropdown-item dropdown-toggle" href="#">Our Facilities</a>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="#">Facilities</a></li>
-                                            <li><a class="dropdown-item" href="#">Facility Single</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown-submenu">
-                                        <a class="dropdown-item dropdown-toggle" href="#">Our Research</a>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="#">Research</a></li>
-                                            <li><a class="dropdown-item" href="#">Research Single</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown-submenu">
-                                        <a class="dropdown-item dropdown-toggle" href="#">Our Clubs</a>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="#">Our Clubs</a></li>
-                                            <li><a class="dropdown-item" href="#">Club Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a class="dropdown-item" href="#">Tuition Fees</a></li>
-                                    <li><a class="dropdown-item" href="#">Alumni</a></li>
-                                    <li><a class="dropdown-item" href="#">Scholarships</a></li>
-                                    <li><a class="dropdown-item" href="#">Our Fund</a></li>
-                                    <li><a class="dropdown-item" href="#">Athletics</a></li>
-                                    <li><a class="dropdown-item" href="#">Health Care</a></li>
-                                </ul>
+                                <a class="nav-link" href="#" data-bs-toggle="dropdown">Admissions</a>
+                               
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="#" data-bs-toggle="dropdown">Blog</a>
