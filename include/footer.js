@@ -14,16 +14,14 @@ document.write(`
                         <img src="assets/img/logo/logo-light.png" alt>
                     </a>
                     <p class="mb-3">
-                        We are many variations of passages available but the majority have suffered alteration
-                        in some form by injected humour words believable.
+                       Polytechnic Colleges were established 2008 Hyderabad, Bangalore & Darbhnaga. Urdu is the medium of instruction in these Colleges.
                     </p>
                     <ul class="footer-contact">
-                        <li><a href="tel:+21236547898"><i class="far fa-phone"></i>+2 123 654 7898</a></li>
-                        <li><i class="far fa-map-marker-alt"></i>25/B Milford Road, New York</li>
+                        <li><a href="tel:+919102603030"><i class="far fa-phone"></i>+91 1234567859</a></li>
+                        <li><i class="far fa-map-marker-alt"></i>Darbhanga Bihar 846009</li>
                         <li><a
-                                href="https://live.themewild.com/cdn-cgi/l/email-protection#f79e999198b7928f969a879b92d994989a"><i
-                                    class="far fa-envelope"></i><span class="__cf_email__"
-                                    data-cfemail="137a7d757c53766b727e637f763d707c7e">[email&#160;protected]</span></a>
+                                href="#"><i
+                                    class="far fa-envelope"></i><span >manuuhelpdesk@gmail.com</span></a>
                         </li>
                     </ul>
                 </div>
@@ -79,7 +77,7 @@ document.write(`
             <div class="row">
                 <div class="col-md-6 align-self-center">
                     <p class="copyright-text">
-                        &copy; Copyright <span id="date"></span> <a href="#"> Eduka </a> All Rights Reserved.
+                        &copy; Copyright <span id="date"></span> <a href="index.html"> MANUU Help Desk </a> All Rights Reserved.
                     </p>
                 </div>
                 <div class="col-md-6 align-self-center">

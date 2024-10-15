@@ -83,16 +83,16 @@ document.write(`
                                                 <div class="col-12 col-sm-4 col-md-3">
                                                     <h5>Undergraduate</h5>
                                                     <ul class="mega-menu-item">
-                                                        <li><a class="dropdown-item" href="academic-single.html">Art And
+                                                        <li><a class="dropdown-item" href="#">Art And
                                                                 Design</a></li>
-                                                        <li><a class="dropdown-item" href="academic-single.html">Acting
+                                                        <li><a class="dropdown-item" href="#">Acting
                                                                 And Drama</a></li>
                                                         <li><a class="dropdown-item"
-                                                                href="academic-single.html">Accounting And Finance</a>
+                                                                href="#">Accounting And Finance</a>
                                                         </li>
-                                                        <li><a class="dropdown-item" href="academic-single.html">Biology
+                                                        <li><a class="dropdown-item" href="#">Biology
                                                                 And Conservation</a></li>
-                                                        <li><a class="dropdown-item" href="academic-single.html">Science
+                                                        <li><a class="dropdown-item" href="#">Science
                                                                 And Engineering</a></li>
                                                     </ul>
                                                 </div>
@@ -100,30 +100,30 @@ document.write(`
                                                     <h5>Graduate Program</h5>
                                                     <ul class="mega-menu-item">
                                                         <li><a class="dropdown-item"
-                                                                href="academic-single.html">Software Systems</a></li>
-                                                        <li><a class="dropdown-item" href="academic-single.html">Human
+                                                                href="#">Software Systems</a></li>
+                                                        <li><a class="dropdown-item" href="#">Human
                                                                 Resource</a></li>
-                                                        <li><a class="dropdown-item" href="academic-single.html">Health
+                                                        <li><a class="dropdown-item" href="#">Health
                                                                 Administration</a></li>
                                                         <li><a class="dropdown-item"
-                                                                href="academic-single.html">Biochemistry</a></li>
+                                                                href="#">Biochemistry</a></li>
                                                         <li><a class="dropdown-item"
-                                                                href="academic-single.html">Computer Science</a></li>
+                                                                href="#">Computer Science</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-12 col-sm-12 col-md-3">
                                                     <h5>Resources</h5>
                                                     <ul class="mega-menu-item">
-                                                        <li><a class="dropdown-item" href="academic.html">Academics
+                                                        <li><a class="dropdown-item" href="#">Academics
                                                                 Department</a></li>
                                                         <li><a class="dropdown-item"
-                                                                href="academic-single.html">Academic Department
+                                                                href="#">Academic Department
                                                                 Single</a></li>
-                                                        <li><a class="dropdown-item" href="faculty.html">Our Faculty</a>
+                                                        <li><a class="dropdown-item" href="#">Our Faculty</a>
                                                         </li>
-                                                        <li><a class="dropdown-item" href="faculty-single.html">Faculty
+                                                        <li><a class="dropdown-item" href="#">Faculty
                                                                 Single</a></li>
-                                                        <li><a class="dropdown-item" href="contact.html">Contact With
+                                                        <li><a class="dropdown-item" href="#">Contact With
                                                                 Us</a></li>
                                                     </ul>
                                                 </div>
@@ -139,53 +139,53 @@ document.write(`
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Admissions</a>
                                 <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="how-to-apply.html">How To Apply</a></li>
-                                    <li><a class="dropdown-item" href="application-form.html">Application Form</a></li>
+                                    <li><a class="dropdown-item" href="#">How To Apply</a></li>
+                                    <li><a class="dropdown-item" href="#">Application Form</a></li>
                                     <li class="dropdown-submenu">
                                         <a class="dropdown-item dropdown-toggle" href="#">Our Campus</a>
                                         <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="campus-tour.html">Campus Tour</a></li>
-                                            <li><a class="dropdown-item" href="campus-life.html">Campus Life</a></li>
-                                            <li><a class="dropdown-item" href="notice-board.html">Notice Board</a></li>
-                                            <li><a class="dropdown-item" href="student-activities.html">Student
+                                            <li><a class="dropdown-item" href="#">Campus Tour</a></li>
+                                            <li><a class="dropdown-item" href="#">Campus Life</a></li>
+                                            <li><a class="dropdown-item" href="#">Notice Board</a></li>
+                                            <li><a class="dropdown-item" href="#">Student
                                                     Activities</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu">
                                         <a class="dropdown-item dropdown-toggle" href="#">Our Facilities</a>
                                         <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="facility.html">Facilities</a></li>
-                                            <li><a class="dropdown-item" href="facility-single.html">Facility Single</a>
+                                            <li><a class="dropdown-item" href="#">Facilities</a></li>
+                                            <li><a class="dropdown-item" href="#">Facility Single</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu">
                                         <a class="dropdown-item dropdown-toggle" href="#">Our Research</a>
                                         <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="research.html">Research</a></li>
-                                            <li><a class="dropdown-item" href="research-single.html">Research Single</a>
+                                            <li><a class="dropdown-item" href="#">Research</a></li>
+                                            <li><a class="dropdown-item" href="#">Research Single</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu">
                                         <a class="dropdown-item dropdown-toggle" href="#">Our Clubs</a>
                                         <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="club.html">Our Clubs</a></li>
-                                            <li><a class="dropdown-item" href="club-single.html">Club Single</a></li>
+                                            <li><a class="dropdown-item" href="#">Our Clubs</a></li>
+                                            <li><a class="dropdown-item" href="#">Club Single</a></li>
                                         </ul>
                                     </li>
-                                    <li><a class="dropdown-item" href="tuition-fee.html">Tuition Fees</a></li>
-                                    <li><a class="dropdown-item" href="alumni.html">Alumni</a></li>
-                                    <li><a class="dropdown-item" href="scholarship.html">Scholarships</a></li>
-                                    <li><a class="dropdown-item" href="our-fund.html">Our Fund</a></li>
-                                    <li><a class="dropdown-item" href="athletics.html">Athletics</a></li>
-                                    <li><a class="dropdown-item" href="health-care.html">Health Care</a></li>
+                                    <li><a class="dropdown-item" href="#">Tuition Fees</a></li>
+                                    <li><a class="dropdown-item" href="#">Alumni</a></li>
+                                    <li><a class="dropdown-item" href="#">Scholarships</a></li>
+                                    <li><a class="dropdown-item" href="#">Our Fund</a></li>
+                                    <li><a class="dropdown-item" href="#">Athletics</a></li>
+                                    <li><a class="dropdown-item" href="#">Health Care</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link" href="blog.html" data-bs-toggle="dropdown">Blog</a>
+                                <a class="nav-link" href="#" data-bs-toggle="dropdown">Blog</a>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
                         </ul>
                         <div class="nav-right">
                             <div class="search-btn">
@@ -193,7 +193,7 @@ document.write(`
                                         class="far fa-search"></i></button>
                             </div>
                             <div class="nav-right-btn mt-2">
-                                <a href="application-form.html" class="theme-btn"><span
+                                <a href="#" class="theme-btn"><span
                                         class="fal fa-pencil"></span>Student Login</a>
                             </div>
                         </div>
